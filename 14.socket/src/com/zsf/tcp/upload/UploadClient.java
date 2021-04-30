@@ -31,5 +31,6 @@ public class UploadClient {
         //关闭流
         bis.close();
         bos.close();
+        System.out.println("END");
     }
 }
