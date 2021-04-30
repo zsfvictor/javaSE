@@ -32,5 +32,6 @@ public class UploadClient {
         bis.close();
         bos.close();
         System.out.println("END.");
+        System.out.println("END.");
     }
 }
