@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08.container/08.container.iml" filepath="$PROJECT_DIR$/08.container/08.container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.container1/08.container1.iml" filepath="$PROJECT_DIR$/08.container1/08.container1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.container2/08.container2.iml" filepath="$PROJECT_DIR$/08.container2/08.container2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.container3/10.container3.iml" filepath="$PROJECT_DIR$/10.container3/10.container3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.ios/11.ios.iml" filepath="$PROJECT_DIR$/11.ios/11.ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.thread1/12.thread1.iml" filepath="$PROJECT_DIR$/12.thread1/12.thread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.thread2/13.thread2.iml" filepath="$PROJECT_DIR$/13.thread2/13.thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.socket/14.socket.iml" filepath="$PROJECT_DIR$/14.socket/14.socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP3/TestOOP3.iml" filepath="$PROJECT_DIR$/TestOOP3/TestOOP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP4/TestOOP4.iml" filepath="$PROJECT_DIR$/TestOOP4/TestOOP4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP5/TestOOP5.iml" filepath="$PROJECT_DIR$/TestOOP5/TestOOP5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE.iml" filepath="$PROJECT_DIR$/javaSE.iml" />
+    </modules>
+  </component>
+</project>
