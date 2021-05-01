@@ -3,7 +3,6 @@ package com.zsf.list;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 
 public class TestArrayList {
     public static void main(String[] args) {
@@ -28,6 +27,6 @@ public class TestArrayList {
             String elem = it.next();
             System.out.println(elem);
         }
-        List
+
     }
 }
