@@ -1,11 +1,11 @@
 package com.zsf.list;
 
 
-import java.util.ArrayList;
-import java.util.Iterator;
+
 
 public class TestArrayList {
     public static void main(String[] args) {
+        java.util.List list2 = new java.util.ArrayList();
         //创建线性序列表
         ArrayList list = new ArrayList();
         //向末尾添加元素

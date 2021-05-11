@@ -1,4 +1,6 @@
-package com.zsf.list;
+package com.zsf.list2;
+
+import com.zsf.list.Iterator;
 
 public interface List {
     //返回线性表大小，既元素的个数
