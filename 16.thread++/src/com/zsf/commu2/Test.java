@@ -1,4 +1,4 @@
-package com.zsf.commu1;
+package com.zsf.commu2;
 
 /**
  * 测试类

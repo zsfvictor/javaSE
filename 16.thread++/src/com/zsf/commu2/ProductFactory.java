@@ -1,6 +1,5 @@
-package com.zsf.commu1;
+package com.zsf.commu2;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
