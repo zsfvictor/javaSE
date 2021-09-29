@@ -12,6 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/14.socket/14.socket.iml" filepath="$PROJECT_DIR$/14.socket/14.socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/15.container++/15.container++.iml" filepath="$PROJECT_DIR$/15.container++/15.container++.iml" />
       <module fileurl="file://$PROJECT_DIR$/16.thread++/16.thread++.iml" filepath="$PROJECT_DIR$/16.thread++/16.thread++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.JDBC/20.JDBC.iml" filepath="$PROJECT_DIR$/20.JDBC/20.JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.empmgr/20.empmgr.iml" filepath="$PROJECT_DIR$/20.empmgr/20.empmgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.empmgr12/20.empmgr12.iml" filepath="$PROJECT_DIR$/20.empmgr12/20.empmgr12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.reflection/21.reflection.iml" filepath="$PROJECT_DIR$/21.reflection/21.reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP3/TestOOP3.iml" filepath="$PROJECT_DIR$/TestOOP3/TestOOP3.iml" />

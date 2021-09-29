@@ -1,5 +1,4 @@
-package com.zsf.commu2;
-
+package com.zsf.commu4;
 
 
 /**
@@ -16,15 +15,17 @@ public class Test {
         ProductFactory productFactory = new ProductFactory();
         //创建10个生产者者线程并启动
         //Runnable runnable1 = new ProduceRunnable(productFactory);
-        Runnable runnable1 = new Runnable() {
-            @Override
-            public void run() {
-                int i = 0;
-                while (true){
-                    //生产一个商品
-                    productFactory.produce("商品"+i);
-                    i++;
+        Runnable runnable1 = () -> {
+            int i = 0;
+            while (true) {
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
+                //生产一个商品
+                productFactory.produce("商品" + i);
+                i++;
             }
         };
 
@@ -38,6 +39,11 @@ public class Test {
             public void run() {
                 //消费一个商品
                 while (true){
+                    try {
+                        Thread.sleep(1);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     productFactory.consume();
 
                 }
